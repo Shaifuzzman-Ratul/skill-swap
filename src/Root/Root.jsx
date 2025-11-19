@@ -3,7 +3,6 @@ import Navbar from '../Components/Header/Navbar';
 import { Outlet, useNavigation } from 'react-router';
 import Footer from '../Components/Footer/Footer';
 import { CircleLoader } from 'react-spinners';
-
 const Root = () => {
     const navigation = useNavigation();
     return (
