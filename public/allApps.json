@@ -1,0 +1,530 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/MD098tVS/download.jpg",
+        "title": "Spotify - Music and Podcasts",
+        "companyName": "Spotify AB",
+        "description": "Spotify is the world’s leading audio streaming platform offering millions of songs, albums, and podcasts. Enjoy personalized playlists, offline listening, and seamless cross-device playback. Discover curated playlists, exclusive podcasts, and high-quality audio. Advanced algorithms adapt to your preferences for a truly personalized experience. Users can explore music from every genre and era, follow favorite artists, and receive notifications for new releases. Spotify provides personalized daily mixes and recommendations that evolve with listening habits. Its podcast library features original content, news, and educational programs. Collaborative playlists allow sharing with friends and colleagues, while charts and trending sections help discover popular content globally. Spotify integrates with smart devices, speakers, and wearables, ensuring that your music experience is consistent and accessible across all platforms.",
+        "size": 100,
+        "reviews": "32K",
+        "ratingAvg": 4.4,
+        "downloads": 1000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 3200
+            },
+            {
+                "name": "2 star",
+                "count": 1200
+            },
+            {
+                "name": "3 star",
+                "count": 5600
+            },
+            {
+                "name": "4 star",
+                "count": 10200
+            },
+            {
+                "name": "5 star",
+                "count": 16200
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/Q7XRpvsV/download.png",
+        "title": "Telegram - Fast Messaging",
+        "companyName": "Telegram FZ-LLC",
+        "description": "Telegram is a cloud-based messenger focused on speed and privacy. It supports media sharing, groups, bots, channels, and end-to-end encryption for secret chats. Users can share large files, access cloud-synced messages on multiple devices, and use powerful search tools to find messages quickly. Telegram’s channels and group features allow communication with large audiences, while bots provide automation, notifications, and games. Customizable themes, stickers, and integrations enhance the user experience. The platform emphasizes privacy, offering secret chats with self-destruct timers and secure encryption. Telegram is suitable for both personal and professional use, combining versatility with high performance and minimal latency.",
+        "size": 90,
+        "reviews": "17K",
+        "ratingAvg": 4.5,
+        "downloads": 1000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 2500
+            },
+            {
+                "name": "2 star",
+                "count": 1300
+            },
+            {
+                "name": "3 star",
+                "count": 2400
+            },
+            {
+                "name": "4 star",
+                "count": 5600
+            },
+            {
+                "name": "5 star",
+                "count": 7400
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/kVxx1h1N/download.png",
+        "title": "Duolingo - Language Lessons",
+        "companyName": "Duolingo",
+        "description": "Duolingo turns language learning into an engaging and structured experience. The platform offers lessons in over 30 languages using interactive exercises that focus on reading, writing, listening, and speaking. Gamified features such as streaks, points, and levels motivate consistent practice. Personalized algorithms adapt lessons to the learner’s strengths and weaknesses, ensuring efficient progression. Duolingo provides cultural insights, grammar explanations, and speech recognition to improve pronunciation. Users can set daily goals, track progress, and participate in challenges. The app is suitable for beginners and advanced learners alike, providing bite-sized lessons that can fit into any schedule. Its combination of engagement, feedback, and structure makes learning languages accessible, consistent, and effective.",
+        "size": 60,
+        "reviews": "19K",
+        "ratingAvg": 4.7,
+        "downloads": 500,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1900
+            },
+            {
+                "name": "2 star",
+                "count": 900
+            },
+            {
+                "name": "3 star",
+                "count": 1800
+            },
+            {
+                "name": "4 star",
+                "count": 5900
+            },
+            {
+                "name": "5 star",
+                "count": 9500
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co.com/spyYhzhN/download.jpg",
+        "title": "Canva - Design, Photo & Video",
+        "companyName": "Canva",
+        "description": "Canva is a versatile design tool that enables users to create professional-quality graphics, videos, and documents. It provides thousands of templates for social media posts, presentations, resumes, posters, and more. Users can access stock images, videos, illustrations, and fonts, while AI-powered tools assist with layout suggestions and editing. Canva supports real-time collaboration, allowing teams to work together and leave feedback. Branding kits, premium elements, and background removal tools enhance creative flexibility. Integration with cloud storage and external platforms ensures that projects are easily shared and updated. Canva is suitable for both beginners and professionals, providing a streamlined workflow that combines creativity, productivity, and accessibility.",
+        "size": 150,
+        "reviews": "12K",
+        "ratingAvg": 4.8,
+        "downloads": 500,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 800
+            },
+            {
+                "name": "2 star",
+                "count": 500
+            },
+            {
+                "name": "3 star",
+                "count": 1200
+            },
+            {
+                "name": "4 star",
+                "count": 3800
+            },
+            {
+                "name": "5 star",
+                "count": 6700
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/RkPhZBXB/download.jpg",
+        "title": "Zoom - One Platform to Connect",
+        "companyName": "Zoom Video Communications, Inc.",
+        "description": "Zoom provides reliable video conferencing, webinars, and team collaboration tools suitable for businesses, educators, and individuals. Features include HD video, low-latency screen sharing, virtual backgrounds, recording, and breakout rooms. Integration with calendars and productivity apps streamlines scheduling and communication. Zoom’s interface supports multiple participants, polls, annotations, and live chat for interactive sessions. The platform emphasizes security with passwords, waiting rooms, and end-to-end encryption. It also provides accessibility options and transcription features. Zoom is widely used for remote work, online learning, and global collaboration, offering consistent performance across desktop and mobile devices.",
+        "size": 150,
+        "reviews": "10.5K",
+        "ratingAvg": 4.3,
+        "downloads": 1000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 1200
+            },
+            {
+                "name": "2 star",
+                "count": 900
+            },
+            {
+                "name": "3 star",
+                "count": 1800
+            },
+            {
+                "name": "4 star",
+                "count": 3700
+            },
+            {
+                "name": "5 star",
+                "count": 3900
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/JjXhBXJz/download.png",
+        "title": "Google Keep - Notes and Lists",
+        "companyName": "Google LLC",
+        "description": "Google Keep is a productivity app designed to capture ideas, notes, and checklists quickly and efficiently. It supports text, voice recordings, image attachments, and color-coded labels for easy organization. Notes and reminders sync across devices through Google Drive. Users can collaborate on lists and share notes in real time. Google Keep integrates with Google Workspace, enhancing workflow by linking tasks and calendar events. Its simple interface ensures quick note-taking while providing advanced search functionality to retrieve information effortlessly. With reminders and notifications, Google Keep helps users manage daily tasks, ideas, and projects efficiently. The app is ideal for students, professionals, and anyone seeking a reliable and organized way to manage information.",
+        "size": 30,
+        "reviews": "2.5K",
+        "ratingAvg": 4.5,
+        "downloads": 1000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 300
+            },
+            {
+                "name": "2 star",
+                "count": 200
+            },
+            {
+                "name": "3 star",
+                "count": 400
+            },
+            {
+                "name": "4 star",
+                "count": 800
+            },
+            {
+                "name": "5 star",
+                "count": 800
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/7JvC3jfK/download.jpg",
+        "title": "Fitbit - Activity & Health",
+        "companyName": "Fitbit LLC",
+        "description": "Fitbit is a comprehensive health and fitness app that monitors activity, workouts, sleep, and heart rate. It provides insights into trends, progress, and personalized recommendations. Fitbit syncs with wearable devices to track steps, calories, and exercise sessions accurately. Users can join challenges, monitor sleep quality, and access coaching tips for wellness improvement. The app offers nutrition tracking, mindfulness exercises, and reminders to promote healthy habits. Detailed reports and dashboards allow users to set goals and review performance over time. Fitbit integrates with various platforms to enhance data accessibility and ensures that maintaining health and fitness routines is practical and measurable.",
+        "size": 95,
+        "reviews": "1.3K",
+        "ratingAvg": 4.3,
+        "downloads": 50,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 150
+            },
+            {
+                "name": "2 star",
+                "count": 100
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 400
+            },
+            {
+                "name": "5 star",
+                "count": 450
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/84LvtCmt/download.png",
+        "title": "TravelMate - Trip Planner",
+        "companyName": "WanderSoft",
+        "description": "TravelMate is a travel planning app that assists users in creating itineraries, booking accommodations, accessing offline maps, and navigating destinations in real time. It provides reviews, recommendations, currency conversion, and emergency contacts for safe travel. TravelMate allows users to organize day-to-day plans, track expenses, and discover attractions efficiently. Offline access ensures navigation without connectivity, while suggested routes and local tips enhance travel experiences. The app supports sharing plans with friends, creating custom lists, and integrating reservations seamlessly. TravelMate is suitable for both casual travelers and professionals seeking structured, reliable, and comprehensive travel assistance.",
+        "size": 110,
+        "reviews": "1.7K",
+        "ratingAvg": 4.5,
+        "downloads": 3.5,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 150
+            },
+            {
+                "name": "2 star",
+                "count": 100
+            },
+            {
+                "name": "3 star",
+                "count": 200
+            },
+            {
+                "name": "4 star",
+                "count": 600
+            },
+            {
+                "name": "5 star",
+                "count": 650
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co.com/5bTm1SM/download.png",
+        "title": "Notion - Notes & Tasks",
+        "companyName": "Notion Labs Inc.",
+        "description": "Notion is an all-in-one productivity platform for notes, tasks, databases, and project management. Users can organize workspaces, collaborate in real time, and structure content with templates, tables, calendars, and boards. Notion supports linking pages, rich media, and task assignment for team efficiency. Its flexible system adapts to personal, educational, and business needs, enabling project tracking, documentation, and knowledge management. Advanced search, cross-device syncing, and permissions ensure that users have consistent access to data. Notion’s integration with external tools and apps facilitates workflow automation and data import. Overall, it provides a unified solution for organizing work and personal life effectively.",
+        "size": 80,
+        "reviews": "4.5K",
+        "ratingAvg": 4.6,
+        "downloads": 200,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 600
+            },
+            {
+                "name": "4 star",
+                "count": 1400
+            },
+            {
+                "name": "5 star",
+                "count": 1800
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co.com/MyZdgV8y/download.png",
+        "title": "Slack - Team Communication",
+        "companyName": "Slack Technologies",
+        "description": "Slack is a collaboration hub that connects teams through channels, direct messaging, file sharing, and integration with thousands of apps. It centralizes communication, reduces email clutter, and enables organized project discussions. Slack supports searchable archives, workflow automation, notifications, and real-time collaboration. Users can integrate tools for calendar management, file storage, and productivity enhancement. Customizable notifications, reminders, and shared channels allow efficient coordination. Slack is suitable for organizations of any size, fostering team alignment and productivity while maintaining a professional and structured communication environment. Its cross-platform accessibility ensures seamless interaction across desktop, mobile, and web devices.",
+        "size": 120,
+        "reviews": "6K",
+        "ratingAvg": 4.4,
+        "downloads": 200,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 800
+            },
+            {
+                "name": "4 star",
+                "count": 1800
+            },
+            {
+                "name": "5 star",
+                "count": 2400
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co.com/G4Tk4Czg/download.jpg",
+        "title": "Google Maps - Navigation",
+        "companyName": "Google LLC",
+        "description": "Google Maps provides real-time GPS navigation, traffic updates, and route planning for drivers, walkers, cyclists, and public transport users. It offers detailed maps, street view imagery, satellite views, and local business information. Users can find directions, discover nearby points of interest, and access offline maps for travel without connectivity. Google Maps integrates with ride-sharing, reservation, and review platforms to enhance user experience. Features include voice-guided navigation, estimated arrival times, alternate routes, and real-time traffic alerts. Its reliable mapping and comprehensive data make it an essential tool for both daily commutes and global travel planning. Users can also contribute reviews, photos, and updates, enriching the map for the community.",
+        "size": 200,
+        "reviews": "55K",
+        "ratingAvg": 4.7,
+        "downloads": 1000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 4500
+            },
+            {
+                "name": "2 star",
+                "count": 2500
+            },
+            {
+                "name": "3 star",
+                "count": 6500
+            },
+            {
+                "name": "4 star",
+                "count": 13500
+            },
+            {
+                "name": "5 star",
+                "count": 25500
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co.com/GQYmNG2q/download.jpg",
+        "title": "Zoomerang - Video Editor",
+        "companyName": "Zoomerang Inc.",
+        "description": "Zoomerang is a mobile video editing app offering creative tools, effects, transitions, and music for social media content. Users can create videos using ready-made templates, cut clips easily, and apply advanced editing features. The app supports layering effects, stickers, and text overlays. Zoomerang provides options for sharing directly to social platforms, optimizing content for engagement. Its simple interface allows both beginners and advanced creators to produce high-quality videos quickly. Tutorials, trend-based effects, and community features encourage creativity. Zoomerang is suitable for influencers, content creators, and casual users seeking professional-quality results from a mobile device.",
+        "size": 70,
+        "reviews": "2.2K",
+        "ratingAvg": 4.5,
+        "downloads": 50,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 200
+            },
+            {
+                "name": "2 star",
+                "count": 150
+            },
+            {
+                "name": "3 star",
+                "count": 300
+            },
+            {
+                "name": "4 star",
+                "count": 800
+            },
+            {
+                "name": "5 star",
+                "count": 750
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "https://i.ibb.co.com/Cpx0yHHb/download.png",
+        "title": "Headspace - Meditation & Sleep",
+        "companyName": "Headspace Inc.",
+        "description": "Headspace offers guided meditation, mindfulness exercises, and sleep aids designed to improve mental wellbeing. The app includes breathing exercises, stress-relief sessions, sleep stories, and tips for daily practice. Users can track meditation streaks and set reminders for consistent practice. Headspace provides programs for focus, anxiety management, and relaxation, helping individuals cultivate calm and awareness. Audio and visual guides, along with personalized plans, make mindfulness accessible to beginners and experienced practitioners. The platform emphasizes evidence-based practices, encouraging long-term habit formation and improved mental health. It is suitable for anyone seeking to reduce stress, enhance sleep, and incorporate mindfulness into daily life.",
+        "size": 95,
+        "reviews": "8K",
+        "ratingAvg": 4.6,
+        "downloads": 100,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 600
+            },
+            {
+                "name": "2 star",
+                "count": 400
+            },
+            {
+                "name": "3 star",
+                "count": 1000
+            },
+            {
+                "name": "4 star",
+                "count": 2400
+            },
+            {
+                "name": "5 star",
+                "count": 4600
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "https://i.ibb.co.com/cKyHwnVw/download.png",
+        "title": "Adobe Lightroom - Photo Editor",
+        "companyName": "Adobe Inc.",
+        "description": "Adobe Lightroom is a professional photo editing app providing tools for color correction, exposure adjustment, cropping, retouching, and presets. Users can apply filters, create custom edits, and sync projects across devices using Adobe Creative Cloud. Lightroom supports RAW image editing and batch processing for efficiency. Its intuitive interface allows photographers to manage large libraries and produce high-quality results. Advanced features include selective adjustments, geometry correction, and lens correction. Tutorials and community resources enhance learning and creative possibilities. Lightroom is ideal for professional photographers, hobbyists, and content creators seeking precise control, consistent results, and a streamlined workflow across devices.",
+        "size": 150,
+        "reviews": "5K",
+        "ratingAvg": 4.7,
+        "downloads": 200,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 400
+            },
+            {
+                "name": "2 star",
+                "count": 300
+            },
+            {
+                "name": "3 star",
+                "count": 700
+            },
+            {
+                "name": "4 star",
+                "count": 1600
+            },
+            {
+                "name": "5 star",
+                "count": 3000
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "https://i.ibb.co.com/bMrJhhWg/download.jpg",
+        "title": "TikTok - Short Videos",
+        "companyName": "ByteDance Ltd.",
+        "description": "TikTok is a global platform for creating, sharing, and discovering short-form videos. Users can explore trending content, interact with music, filters, and effects, and post videos to engage audiences. The app uses a personalized algorithm to deliver content based on user preferences and behavior. TikTok supports collaborations, duets, and live streaming, fostering a creative community. Analytics and insights help creators understand engagement and growth. Safety features include privacy settings, content moderation, and parental controls. TikTok offers a dynamic and immersive experience for entertainment, education, and creative expression, connecting millions of users worldwide in a professional yet approachable environment.",
+        "size": 100,
+        "reviews": "80K",
+        "ratingAvg": 4.6,
+        "downloads": 1500,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 7000
+            },
+            {
+                "name": "2 star",
+                "count": 3500
+            },
+            {
+                "name": "3 star",
+                "count": 8500
+            },
+            {
+                "name": "4 star",
+                "count": 21500
+            },
+            {
+                "name": "5 star",
+                "count": 38500
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "https://i.ibb.co.com/39KZpFMC/download.jpg",
+        "title": "Instagram - Photo & Video",
+        "companyName": "Meta Platforms, Inc.",
+        "description": "Instagram is a visual storytelling platform for sharing photos, videos, and Reels with a global audience. Users can apply creative tools, AR filters, and editing options to enhance content. The app supports stories, live broadcasts, shopping features, and direct messaging for seamless interaction. Instagram provides personalized feeds, content discovery, and community engagement through likes, comments, and collaborations. Insights and analytics help creators measure reach and performance. Hashtags, trends, and location tagging enable connection with relevant audiences. Instagram is designed for individuals, businesses, and creators seeking a professional yet approachable platform for sharing visual content, building communities, and exploring global trends.",
+        "size": 120,
+        "reviews": "120K",
+        "ratingAvg": 4.5,
+        "downloads": 2000,
+        "ratings": [
+            {
+                "name": "1 star",
+                "count": 9000
+            },
+            {
+                "name": "2 star",
+                "count": 4500
+            },
+            {
+                "name": "3 star",
+                "count": 10500
+            },
+            {
+                "name": "4 star",
+                "count": 27000
+            },
+            {
+                "name": "5 star",
+                "count": 42000
+            }
+        ]
+    }
+]

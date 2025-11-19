@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co.com/MD098tVS/download.jpg",
+        "title": "Spotify - Music and Podcasts",
+        "shortDescription": "Stream millions of songs & shows",
+        "companyName": "Spotify AB",
+        "description": "Spotify is the world’s leading audio streaming platform offering millions of songs, albums, and podcasts. Enjoy personalized playlists, offline listening, and seamless cross-device playback.",
+        "size": 100,
+        "reviews": 32000000,
+        "ratingAvg": 4.4,
+        "downloads": "1B+"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co.com/Q7XRpvsV/download.png",
+        "title": "Telegram - Fast Messaging",
+        "shortDescription": "Private & secure communication",
+        "companyName": "Telegram FZ-LLC",
+        "description": "Telegram is a cloud-based messenger focused on speed and privacy. It supports media sharing, groups, bots, channels, and end-to-end encryption for secret chats.",
+        "size": 90,
+        "reviews": 17000000,
+        "ratingAvg": 4.5,
+        "downloads": "1B+"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co.com/kVxx1h1N/download.png",
+        "title": "Duolingo - Language Lessons",
+        "shortDescription": "Learn languages for free",
+        "companyName": "Duolingo",
+        "description": "Duolingo turns language learning into a fun game. Learn over 30 languages with bite-sized lessons, interactive exercises, and daily goals. Perfect for beginners or casual learners.",
+        "size": 60,
+        "reviews": 19000000,
+        "ratingAvg": 4.7,
+        "downloads": "500M+"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co.com/spyYhzhN/download.jpg",
+        "title": "Canva - Design, Photo & Video",
+        "shortDescription": "Create stunning designs easily",
+        "companyName": "Canva",
+        "description": "Canva lets you design anything—from social media posts to resumes and presentations. It offers thousands of templates, AI-powered tools, and collaboration features. Perfect for professionals, students, and creators.",
+        "size": 150,
+        "reviews": 12000000,
+        "ratingAvg": 4.8,
+        "downloads": "500M+"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co.com/RkPhZBXB/download.jpg",
+        "title": "Zoom - One Platform to Connect",
+        "shortDescription": "Meet, chat & collaborate anywhere",
+        "companyName": "Zoom Video Communications, Inc.",
+        "description": "Zoom offers reliable video meetings, screen sharing, and team chat. It's ideal for business meetings, online classes, and webinars with HD video and low latency.",
+        "size": 150,
+        "reviews": 10500000,
+        "ratingAvg": 4.3,
+        "downloads": "1B+"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co.com/JjXhBXJz/download.png",
+        "title": "Google Keep - Notes and Lists",
+        "shortDescription": "Quick notes, lists & reminders",
+        "companyName": "Google LLC",
+        "description": "Google Keep makes it easy to capture ideas, make checklists, and set reminders. Notes sync automatically across your devices via Google Drive, so your thoughts are always accessible. Supports voice notes, labels, and color coding for organization.",
+        "size": 30,
+        "reviews": 2500000,
+        "ratingAvg": 4.5,
+        "downloads": "1B+"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co.com/7JvC3jfK/download.jpg",
+        "title": "Fitbit - Activity & Health",
+        "shortDescription": "Track fitness & wellness data",
+        "companyName": "Fitbit LLC",
+        "description": "Fitbit helps you monitor your steps, workouts, heart rate, and sleep. Syncs with Fitbit wearables and offers detailed insights, trends, and challenges for motivation.",
+        "size": 95,
+        "reviews": 1300000,
+        "ratingAvg": 4.3,
+        "downloads": "50M+"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co.com/84LvtCmt/download.png",
+        "title": "TravelMate - Trip Planner",
+        "shortDescription": "Plan trips & explore places",
+        "companyName": "WanderSoft",
+        "description": "TravelMate is your ultimate travel assistant, offering itinerary planning, offline maps, travel recommendations, booking tools, and real-time navigation. It includes reviews from travelers, local guides, currency converters, and emergency contact features. Perfect for solo travelers and families.",
+        "size": 110,
+        "reviews": 1700,
+        "ratingAvg": 4.5,
+        "downloads": "3.5M"
+    }
+]
